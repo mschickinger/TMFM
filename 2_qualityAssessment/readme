@@ -1,0 +1,5 @@
+Also see comments in the first few lines of ‘dGiTSiK’ and ‘dGiTSiK2’.
+
+Before being able to execute dGiTSiK, you first need to run the functions ‘f_pos_hist_print.m’ and ‘f_disp_from_map_print.m’ as well as the script ‘positions.m’.
+
+The script ‘jump_analyzer.m’ can be used to assess sudden jumps / jolts in the sample that lead to apparent sudden large displacements in all objects’ positions. If this occurs, the output file ‘jumps.mat’ will then be needed while setting up the MLHMM evaluation (see ‘MLHMM_TMFM.m’).
