@@ -1,3 +1,7 @@
+% Large portions of this analysis script, in particular all the
+% sub-functions with original source code in C++ were written by 
+% Jonas Funke, at the time PhD candidate in the group of Prof. Dietz, TUM. 
+
 %% startup
 clc, clear all, close all
 path0 = cd;
