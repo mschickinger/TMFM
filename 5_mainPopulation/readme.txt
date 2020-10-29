@@ -13,5 +13,5 @@ A more detailed description of the concept and its foundation is given in my Dis
 Matthias Schickinger, “Untersuchung der Hybridisierungskinetik kurzer DNA-Doppelstraenge mit der neuartigen Einzelmolekuel-Methode Tethered Multi-Fluorophore Motion”, 2020.
 (in German language)
 
-I would like to point out that correction for missed events was implemented by myself in Matlab, but was adapted from the method published in:
+My implementation of the correction for missed events in Matlab is based on the method published in:
 J. Stigler and M. Rief, “Hidden Markov analysis of trajectories in single-molecule experiments and the effects of missed events,” ChemPhysChem, vol. 13, no. 4, pp. 1079–1086, 2012.
