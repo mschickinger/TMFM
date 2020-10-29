@@ -2,6 +2,9 @@
 The purpose of this repository is the documentation of the Matlab code used for 
 the analysis of TMFM single-molecule fluorescence microscopy data during my PhD
 project in the Lab of Prof. Hendrik Dietz at the TUM (Technical University Munich).
+Some of the code was developed in collaboration with other members of the group.
+The contributors are acknowledged by name in the individual folders' readme files
+and/or within comments in the code itself.
 
 TMFM stands for "Tethered Multi-Fluorophore Motion". For more information on this
 method and what you can do with it, you can check out the following publication:
@@ -15,7 +18,7 @@ Matthias Schickinger, “Untersuchung der Hybridisierungskinetik
 kurzer DNA-Doppelstraenge mit der neuartigen Einzelmolekuel-Methode
 Tethered Multi-Fluorophore Motion”, 2020.
 
-I want to emphasize that this repository is NOT meant to contain a ready-to-use
+I would like to emphasize that this repository does NOT contain a ready-to-use
 software package for analyzing data from arbitrary tethered-particle or 
 tethered-fluorophore experiments. With some effort, I am certain it could be 
 adapted for this or other specific purposes. However, I think that nowadays there 
@@ -30,7 +33,7 @@ Please also let me know if you have the impression that some crucial function or
 script is missing from the repository. I may have overlooked something when I put
 it together and whatever is missing will probably be buried somewhere else.
 
-For further details, please see the individual folders' readme files.
+For further details, please see the readme files in the individual folders.
 
 --------
 Matthias Schickinger, October 2020.
